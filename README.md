@@ -1,5 +1,9 @@
 # ToDoList
 
+Ofc a lot of mistakes have been made, but i hope i will improve with the next projects :)
+
+
+**Programm preview**
 
 [1](https://user-images.githubusercontent.com/57033191/226294490-51800fbb-e0c0-4f07-ba7a-18a1cdd3010f.png) - All ToDos
 
